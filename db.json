@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Usuario 1"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Produto 1"
+    }
+  ]
+}
